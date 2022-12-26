@@ -46,7 +46,7 @@ section{
     cursor: pointer;
     font-size: 1.7rem;
 }
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 500px) {
     .btn {
         display: inline-block;
         margin-top: 1rem;
@@ -128,7 +128,7 @@ header .fa-bars{
     background-size: cover;
     background-position: center;
 }
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 500px) {
     .home {
         display: flex;
         align-items: center;
